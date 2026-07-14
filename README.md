@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ====== TOP LANGUAGES ====== -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINTPIPERAS&layout=compact&hide_border=true&bg_color=FFFBF7&title_color=8EC5A7&text_color=7A8B9E&border_radius=12&langs_count=8" width="45%" />
+<img src="./profile/top-langs.svg" width="45%" />
 
 <br/>
 <br/>
@@ -29,12 +29,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/MINTPIPERAS/code-tape">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MINTPIPERAS&repo=code-tape&hide_border=true&bg_color=FFFBF7&title_color=8EC5A7&text_color=7A8B9E&icon_color=8EC5A7&border_radius=12" width="100%" />
+        <img src="./profile/pin-code-tape.svg" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/MINTPIPERAS/PIPERAS-BLOG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MINTPIPERAS&repo=PIPERAS-BLOG&hide_border=true&bg_color=FFFBF7&title_color=8EC5A7&text_color=7A8B9E&icon_color=8EC5A7&border_radius=12" width="100%" />
+        <img src="./profile/pin-PIPERAS-BLOG.svg" width="100%" />
       </a>
     </td>
   </tr>
